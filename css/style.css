@@ -1,0 +1,167 @@
+body{
+
+}
+header{
+    background-color: #d2f7d2;
+}
+.menu{}
+.menu ul{}
+.menu ul li{
+    padding: 0 20px !important;
+}
+.menu ul li a{
+    color: black !important;
+}
+.menu ul li a:hover{
+    border-bottom: 2px solid rgb(122, 116, 116);
+}
+.sign_button{
+    color: rgb(252, 252, 252);
+    background-color: #21B573;
+    border-radius: 35px;
+    padding: 5px 30px;
+}
+
+
+.banner{
+    padding: 75px 0;
+    background-color: #d2f7d2;
+}
+.banner_content{
+    padding-right: 170px;
+    margin-top: 40px;
+}
+.banner_content h3{
+    font-size: 16px;
+    color: red;
+}
+.banner_content h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+.banner_content h1 span{
+    color: #21B573;
+}
+.banner_content p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+    margin: 20px 0 !important;
+}
+.button_cus{
+    width: 180px;
+    margin-left: 0 !important;
+    margin-top: 10px !important;
+}
+.banner-img{
+    width: 100%;
+}
+.banner-img img{
+    width: 100%;
+}
+
+
+/*Banner Section*/
+section{
+    margin: 40px 0;
+}
+.single_section{
+    height: 270px;
+        
+}
+.single_section:hover{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgb(211, 207, 207);
+}
+.s_content_all{
+    text-align: center;
+    width: 180px;
+    height: 80px;
+    margin: auto;
+    margin-top: 30px;
+}
+.single_section img{
+    Width:50%;
+    Height:85px;
+}
+.single_section h2{
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 36px;
+}
+.single_section p{}
+
+
+/*Course Section*/
+.course_section{}
+.course_section h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    margin: 60px 0;
+}
+.course_content{
+    text-align: center;
+    padding: 15px 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    height: 480px;
+    box-shadow: 5px 5px 20px 5px rgb(209, 204, 204);
+}
+.course_content img{}
+.course_content h2{
+    margin-top: 30px;
+}
+.course_content p{}
+.course_content i{
+    font-size: 36px;
+}
+/*Testimonial Section*/
+.testimonial_section{
+    text-align: center;
+    overflow: hidden;
+    padding: 60px 300px;
+}
+.testimonial_section h1{}
+.testimonial_section img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
+.content_section{}
+.content_section p{
+    margin-top: 40px;
+}
+.footer_content p{
+    padding: 0 50px;
+}
+.footer_menu{}
+.footer_menu h2{}
+.footer_menu ul{
+    list-style: none;
+    padding-left: 0;
+}
+.footer_menu ul li{}
+.footer_menu ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.footer_menu ul li a:hover{
+    border-bottom: 1px solid #ddd;
+}
+footer{
+    background-color:#282531;
+    color: #fff;
+    padding: 45px 0 10px;
+}
+.copywrite{
+    text-align: center;
+    margin-top: 50px;
+}
+.copywrite a{
+    color: rgb(197, 196, 196);
+    
+}
